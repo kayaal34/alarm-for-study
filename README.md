@@ -30,9 +30,6 @@ Bu projeyi bilgisayarınızda çalıştırmak için herhangi bir sunucuya veya k
 *   **CSS3:** Tasarım ve animasyonlar
 *   **JavaScript (ES6+):** Alarm mantığı, matematik soruları ve ses kontrolü
 
-## 📸 Ekran Görüntüleri
-
-*(Buraya uygulamanızın ekran görüntülerini ekleyebilirsiniz)*
 
 ## 🤝 Katkıda Bulunma
 
